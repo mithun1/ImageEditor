@@ -1,0 +1,47 @@
+.toolbar
+{
+background-color: red;
+color: white;
+font-size: 15px;
+font-family: Impact, Charcoal, sans-serif;
+position: absolute;
+}
+.picturepanel
+{
+position: relative;
+min-height: 400px;
+min-width: 60%;
+background-color: #FFFFD4;
+border: 2px solid green;
+}
+
+@font-face
+{
+font-family: bengali;
+src: url(MohanondaMJ6.ttf);
+}
+@font-face
+{
+font-family: hindi;
+src: url(Devlys_010.ttf);
+}
+@font-face
+{
+font-family: hindi-italic;
+src: url(DevLys_020_Italic.ttf);
+}
+@font-face
+{
+font-family: hindi-bold;
+src: url(Devlys_011_bold.ttf);
+}
+@font-face
+{
+font-family: Oriya;
+src: url(Sarala.ttf);
+}
+@font-face
+{
+font-family: Oriya-bold;
+src: url(ODIA-OT-V2.ttf);
+}
