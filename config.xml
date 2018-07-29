@@ -2,7 +2,7 @@
   <name>ImageEditor</name>
   <description>A application to Edit image and drawing tool.</description>
   <author href="http://www.webapsolution.com" email="info@webapsolution.com">Webapsolution.com</author>
-  <content src="http://www.webapsolution.com/paint/print.php"/>
+  <content src="http://www.webapsolution.com/paint/index.php"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
   <preference name="target-device" value="universal"/>
